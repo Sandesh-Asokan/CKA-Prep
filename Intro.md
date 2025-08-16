@@ -1,6 +1,7 @@
 # CKA-Prep
 Documenting CKA Preparation for reference
 
+<<<<<<< HEAD
 1. Core Concepts
 1.1. Cluster Architecture
 1.2. Docker 
@@ -16,3 +17,6 @@ Documenting CKA Preparation for reference
 2.2. Replicasets
 2.3. Deployments
 2.4. Service
+=======
+Test
+>>>>>>> eb44acb52b24cf4270bd183cdf2257b07542fe7d
